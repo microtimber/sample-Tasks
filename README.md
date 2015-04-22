@@ -1,4 +1,18 @@
 # sample-Tasks
+
+**This is a fork of the main [NativeScript tasks sample](https://github.com/NativeScript/sample-Tasks) that you can run from the NativeScript CLI.**
+How to run:
+```
+$ git clone https://github.com/microtimber/sample-Tasks.git
+$ cd sample-task
+$ tns platform add android
+$ tns run android
+```
+But whichever emulator or device, Tasks app can't run:
+***Unfortunately, Tasks has stopped***
+((+_+))
+
+- - -
 Open source cross-platform Tasks app built with NativeScript.
 
 Use this application to find-out how to implement common mobile scenarios with NativeScript.
